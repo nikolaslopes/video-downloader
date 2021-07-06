@@ -40,7 +40,7 @@ print(f"\nDownloading video: {youtube.title}\n\n")
 sleep(3)
 
 
-video = youtube.streams.first()
+video = youtube.streams.get_highest_resolution()
 
 video.download()
 
