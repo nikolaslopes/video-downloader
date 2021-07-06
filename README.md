@@ -10,7 +10,7 @@
   
 -> In terminal: `$ git clone https://github.com/nikolaslopes/video-downloader.git`
  
--> Open the local repository and your terminal
+-> Open the local repository
 
 <br>
   
