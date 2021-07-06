@@ -13,3 +13,11 @@ def clearConsole():
 
 
 clearConsole()
+
+print("\n\n\t\t\t\t******** WELCOME TO THE PYTUBE ********\n")
+
+sleep(1)
+
+print("\t\t\t\t\t (👍≖‿‿≖)👍 👍(≖‿‿≖👍)\n\n")
+
+sleep(1)
