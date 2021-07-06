@@ -27,3 +27,7 @@ video_url = input("Please, past the video's url here: ")
 youtube = pytube.YouTube(video_url)
 
 print(f"Downloading video: | {youtube.title}")
+
+video = youtube.stream.first()
+
+video.download()
