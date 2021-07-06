@@ -21,3 +21,9 @@ sleep(1)
 print("\t\t\t\t\t (👍≖‿‿≖)👍 👍(≖‿‿≖👍)\n\n")
 
 sleep(1)
+
+video_url = input("Please, past the video's url here: ")
+
+youtube = pytube.YouTube(video_url)
+
+print(f"Downloading video: | {youtube.title}")
