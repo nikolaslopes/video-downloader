@@ -38,6 +38,8 @@
   
 -> After this, paste the video's url when the program asks
   
+-> The program will download the highest video resolution available
+  
 <br>
  
 # 🚀 Techs
